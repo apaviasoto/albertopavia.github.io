@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![KU Leuven logo](images/kuleuven-logo.png){: .align-right width="200px"}
-![FWO logo](images/fwo_kleur.ai){: .align-right width="200px"}
 
 My name is Alberto. I am a PhD student in economics at KU Leuven in Belgium, working under the supervision of [Christian Proebsting](https://sites.google.com/site/proebstingchristian/home).
 
@@ -17,3 +15,7 @@ My research interest is in macroeconomics with heterogeneity. I carry out data-d
 My research is funded by the FWO fundamental research grant.
 
 I grew up in the beautiful wine region of [La Rioja](https://www.spain.info/en/region/la-rioja/), in Northern Spain.
+
+
+![KU Leuven logo](images/kuleuven-logo.png){: .align-left width="200px"}
+![FWO logo](images/fwo_kleur.png){: .align-right width="200px"}
