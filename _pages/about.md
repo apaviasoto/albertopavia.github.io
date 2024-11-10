@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![KU Leuven logo](kuleuven-logo.png){: .align-right width="300px"}
+![KU Leuven logo](images/kuleuven-logo.png){: .align-right width="200px"}
+![FWO logo](images/fwo_kleur.ai){: .align-right width="200px"}
+
 My name is Alberto. I am a PhD student in economics at KU Leuven in Belgium, working under the supervision of [Christian Proebsting](https://sites.google.com/site/proebstingchristian/home).
 
 My research interest is in macroeconomics with heterogeneity. I carry out data-driven research to study shocks propagate across regions within a country or among countries in a monetary union, and I analyze the aggregate effects of this heterogeneity. To address these questions, I combine novel microdata with structural models.
