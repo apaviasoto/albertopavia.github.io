@@ -16,6 +16,9 @@ My research is funded by the FWO fundamental research grant.
 
 I grew up in the beautiful wine region of [La Rioja](https://www.spain.info/en/region/la-rioja/), in Northern Spain.
 
+Click here to see my CV.
+
 
 ![KU Leuven logo](images/kuleuven-logo.png){: .align-left width="200px"}
-![FWO logo](images/fwo_kleur.png){: .align-left width="175px"}
+
+![FWO logo](images/fwo_kleur.png){: .align-left width="150px"}
