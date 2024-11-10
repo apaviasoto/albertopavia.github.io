@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name             : "Alberto Pavia"
-  avatar           : "portrait-id.png"
+  avatar           : "profile.png"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in economics at KU Leuven"
   location         : "Leuven, Belgium"
