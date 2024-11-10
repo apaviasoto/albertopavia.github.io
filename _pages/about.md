@@ -18,4 +18,4 @@ I grew up in the beautiful wine region of [La Rioja](https://www.spain.info/en/r
 
 
 ![KU Leuven logo](images/kuleuven-logo.png){: .align-left width="200px"}
-![FWO logo](images/fwo_kleur.png){: .align-right width="200px"}
+![FWO logo](images/fwo_kleur.png){: .align-left width="175px"}
