@@ -10,10 +10,7 @@
  *
 */
 
-.author__avatar {
-    border-radius: 0; /* Remove rounding to make the avatar square */
-  }
-  
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
