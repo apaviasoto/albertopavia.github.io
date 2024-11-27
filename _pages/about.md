@@ -10,9 +10,9 @@ redirect_from:
 
 My name is Alberto. I am a PhD student in economics at KU Leuven in Belgium, working under the supervision of [Christian Proebsting](https://sites.google.com/site/proebstingchristian/home).
 
-My research interest is in macroeconomics with heterogeneity. I carry out data-driven research to study shocks propagate across regions within a country or among countries in a monetary union, and I analyze the aggregate effects of this heterogeneity. To address these questions, I combine novel microdata with structural models.
+My research interest lies in (international) macroeconomics, where I study how shocks propagate across regions within a country or among countries in a monetary union. I combine novel microdata to analyze the local effects of aggregate shocks with structural models to study their implications for aggregate and distributional outcomes.
 
-My research is funded by the FWO fundamental research grant.
+My research is funded by the Research Foundation Flanders (FWO) fundamental research grant.
 
 I grew up in the beautiful wine region of [La Rioja](https://www.spain.info/en/region/la-rioja/), in Northern Spain.
 
