@@ -12,7 +12,17 @@ redirect_from:
   body {
     padding-bottom:20px;
   }
-  .content-profile {
+  .content-profile, .content-profile h1, .research h1,.research h2,.research h3,.teaching h1, .teaching h2, .teaching h3 {
+    font-family: 'Poppins',sans-serif;
+  }
+  .content-profile p {
+
+    font-size: 15px;
+  }
+  .research h3,.teaching h3 {
+    font-size: 1.2em;
+  }
+  .research ul li,.teaching ul li {
     font-family: 'Poppins',sans-serif;
   }
 header{display: none;}
@@ -43,6 +53,12 @@ header{display: none;}
   
     margin-right: 2px;
    
+}
+.author__avatar {
+  display: unset;
+  width: unset;
+  height: unset;
+  vertical-align: unset;
 }
 @media (max-width:1280px) and (min-width:767px){
   .page{
@@ -103,9 +119,10 @@ header{display: none;}
 </style>
 
 <div class="introduction" id="introduction">
-  <div class="profile-image">
-    <img src="http://localhost:4000/images/bio-photo.jpg">
-  </div>
+  <!-- <div class="profile-image"> -->
+    <!-- <img src="images/bio-photo.jpg"> -->
+    {% include profile_img.html %}
+  <!-- </div> -->
   <div class="content-profile">
     <h1 class="page__title">Welcome!</h1>
 <p>My name is Alberto. I am a PhD student in economics at KU Leuven in Belgium, working under the supervision of <a href="https://sites.google.com/site/proebstingchristian/home">Christian Proebsting</a></p>
@@ -115,7 +132,7 @@ header{display: none;}
 
 <p class="origin-text">I grew up in the beautiful wine region of <a href="https://www.spain.info/en/region/la-rioja/">La Rioja</a>, in Northern Spain.</p>
 
-<p class="link-cv-text"><a href="images/paviasoto_academic_cv.pdf" download>Click here to see my CV.</a></p>
+<p class="link-cv-text"><a href="">Click here to see my CV.</a></p>
 
 <div class="image-logo-port">
   <img src="images/kuleuven-logo.png" alt="KU Leuven logo" style="text-align: left;width: 150px;">
