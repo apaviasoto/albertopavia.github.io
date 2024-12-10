@@ -51,12 +51,29 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    text-align:left;
+    margin-top:30px;
+    font-size:30px;
+    position:relative;
+    
+    &:before{
+    position:absolute;
+    content : '';
+    width:100px;
+    height:2px;
+    background-color:gray;
+    top:100%;
+    } 
+  }
+  
+
+  .introduction,.research,.teaching {
+     border-bottom: 1px solid #ccc;
+     padding-bottom:0.5em
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 15px;
   }
 
   /* paragraph indents */

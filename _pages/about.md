@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about-old
 title: "Welcome!"
 excerpt: "About Me"
 author_profile: true
@@ -22,3 +22,5 @@ Click here to see my CV.
 ![KU Leuven logo](images/kuleuven-logo.png){: .align-left width="200px"}
 
 ![FWO logo](images/fwo_kleur.png){: .align-left width="150px"}
+
+
